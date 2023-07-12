@@ -8,7 +8,7 @@
   com o resultado.
 */
 
-prompt("Vamos ver as operações matemáticas de 2 números")
+alert("Vamos ver as operações matemáticas de 2 números")
 let firstNumber = prompt('Digite o primeiro número')
 let secondNumber = prompt('Digite o segundo número')
 
